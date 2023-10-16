@@ -1,0 +1,41 @@
+{
+    "myBudget": [
+    {
+        "title": "Parties",
+        "budget": 70,
+        "color": "#FF00F4"
+        
+    },
+    {
+        "title":"Utilities",
+        "budget": 200,
+        "color": "#FF9E00" 
+        
+    },
+    {
+        "title": "Groceries",
+        "budget": 108,
+        "color": "#C3A068" 
+    },
+    {
+        "title": "Eat out",
+        "budget": 152,
+        "color": "#A7C368" 
+    },
+    {
+        "title": "Movies",
+        "budget": 100,
+        "color": "#68C393"
+    },
+    {
+        "title":"Gas",
+        "budget": 95,
+        "color": "#00D8FF" 
+    },
+    {
+        "title": "Car loan",
+        "budget": 155,
+        "color": "#AE00FF" 
+    }
+    ]
+}
